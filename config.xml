@@ -2,7 +2,7 @@
 <module>
     <name>agaffiliate</name>
     <displayName><![CDATA[AgAffiliate]]></displayName>
-    <version><![CDATA[1.0.0]]></version>
+    <version><![CDATA[1.0.1]]></version>
     <description><![CDATA[Allow your customers to become affiliate of your shop, increasing your sales.]]></description>
     <author><![CDATA[AGTI]]></author>
     <tab><![CDATA[advertising_marketing]]></tab>
